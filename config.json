@@ -1,0 +1,14 @@
+{
+  "notify_service_url": "https://farm-safe-notify.onrender.com",
+
+  "twilio": {
+    "account_sid": "AC0711e184a5d3a2037b1f140af15a04e1",
+    "auth_token": "c6f0ab66817a5eda40f4ac5449391470",
+    "phone_number": "whatsapp:+14155238886"
+  },
+
+  "notifications": {
+    "ops_email": "shadab@ualberta.ca",
+    "ops_phone": "+17807073944"
+  }
+}
